@@ -64,8 +64,7 @@ pip install scapy
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/packet-sniffer.git
-cd packet-sniffer
+git clone (https://github.com/AnshikaAsthana/CodeAlpha_Task1/blob/main/Basic%20Network%20Sniffer)
 ```
 
 ### Step 2: Run the script
